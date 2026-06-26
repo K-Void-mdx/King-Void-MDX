@@ -32,7 +32,7 @@ Edit "config.env" and set your required variables before starting the bot.
 
 ❤️ Credits
 
-- Original project by Levanter contributors.
+- Based on the original open-source project. Modified and maintained as King-Void-MDX.
 - Customized and maintained as King-Void-MDX by King Void.
 
 📄 License
